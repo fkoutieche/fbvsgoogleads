@@ -1,12 +1,13 @@
 # Google Ads vs Facebook Ads Marketing Campaign Analysis
 
+Access the Google Sheets version [here](https://docs.google.com/spreadsheets/d/1vvJxUe0tKBRMWUqcYj07TlRVe0u8dgjcT9JevltWMSM/edit?usp=sharing)
+
 ![image](https://github.com/user-attachments/assets/625d3009-9ec0-4b40-b86d-5ab05921672b)
 
 
 ## Project Overview
 This is an Excel-based project designed to evaluate and compare advertising campaign metrics across Google Ads and Facebook Ads. By integrating datasets, pivot tables, and visualizations, the project highlights trends in spending, audience engagement, and device usage, providing actionable insights to optimize advertising strategies and maximize ROI.
 
-Access the Google Sheets version [here](https://docs.google.com/spreadsheets/d/1vvJxUe0tKBRMWUqcYj07TlRVe0u8dgjcT9JevltWMSM/edit?usp=sharing)
 
 ## Key Features
 - **Platform Comparisons**:
